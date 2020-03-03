@@ -1,0 +1,20 @@
+Jacobi Method result:
+
+X =  [ 7.86798447  0.4239069  -0.0731638  -0.5370925   0.01063184]
+Number of iterations =  39 
+
+Gauss-Seidel Method result:
+
+X =  [ 7.85091478  0.42280131 -0.07344797 -0.53952326  0.01062   ]
+Number of iterations =  18 
+
+Relaxation Method result: (w = 1.25)
+
+X =  [ 7.85152701  0.42277371 -0.07348303 -0.53978369  0.01062286]
+Number of iterations =  7 
+
+Conjugate Gradient Method result:
+
+X =  [ 7.85971308  0.42292641 -0.07359224 -0.54064302  0.01062616]
+Number of iterations =  5 
+
