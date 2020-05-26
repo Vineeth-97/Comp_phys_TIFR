@@ -1,0 +1,3 @@
+gcc - c <file_name.c>
+gcc <file_name.o> -lgsl -lgslcblas -lm
+./a.out
