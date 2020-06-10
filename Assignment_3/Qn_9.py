@@ -28,7 +28,7 @@ x_b = int(3*N/2)
 
 f_box = [f(i) for i in x]
 plt.plot(x, f_box, 'r', label='Box function')
-plt.plot(x, np.real(conv[x_a:x_b]), 'g', label='Convolution')
+plt.plot(x, np.real(conv[x_a:x_b]), 'b', label='Convolution')
 plt.legend()
 plt.title("Convolution of box function with itself")
 plt.show()
